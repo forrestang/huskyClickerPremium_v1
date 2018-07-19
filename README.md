@@ -20,7 +20,7 @@ To run this app you will need:
 * Load the `index.html` into your directory
 
 ## View Live Version
-* [Live Version](https://forrestang.github.io/MemoryGame/) - Live version on my github
+* [Live Version](https://forrestang.github.io/CatClickerPremium/) - Live version on my github
 
 
 ## Additional Libraries used
